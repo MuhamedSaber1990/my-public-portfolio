@@ -12,6 +12,10 @@ This project is a modern, responsive portfolio for Mohamed Saber, featuring:
 - Contact form with email delivery via Resend
 - Dark theme support
 
+## 🚀 Live Demo
+
+[https://my-public-portfolio-theta.vercel.app/](https://my-public-portfolio-theta.vercel.app/)
+
 ## Tech Stack
 
 - Next.js 16 (App Router)
